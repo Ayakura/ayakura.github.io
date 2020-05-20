@@ -16,6 +16,7 @@ As is the case with many people, the quarantine period has given me a lot of tim
 Why did I give up?
 
 ![Untitled 1.png]({{site.baseurl}}/images/1/Untitled 1.png)
+
 _95% of gamers use WASD in the first 5 seconds of a game. The other 5% press ESC for commands_
 
 After - just like me - you let the game choose everything including your gender, race, alignment, etc..., during the first playthrough, you are instantly dropped into this beautiful ASCII 2x4 room with 2 doors, one of which I opened and walked through then got stuck down there. I'm the @, and my cat is Mr. f next to me.
@@ -23,11 +24,13 @@ After - just like me - you let the game choose everything including your gender,
 At this point I decided to go back north and check out other paths, where I am greeted with another letter of the alphabet:
 
 ![Untitled 2.png]({{site.baseurl}}/images/1/Untitled 2.png)
+
 _'o' stands for goblin_
 
 Nice way of saying "hi." This is where I used my 200iq brain to press '?' for a list of commands, where I am barraged with this:
 
 ![Untitled 3.png]({{site.baseurl}}/images/1/Untitled 3.png)
+
 _You have to toggle two-weapon combat?_
 
 I called it quit then and there. Obviously this is an exaggeration of events because the actual first time I played this, my character died from being gangbanged by 3 kobolds instead.
@@ -46,4 +49,5 @@ The phrase "permanent death" is certainly something I'm not used to seeing in a 
 But roguelikes are truly RANDOM, one playthrough to the next if I wanted it to. I had to give them a shot right? Enter my search for a "fun" roguelike game. Let's not talk about Nethack, but others from 4chan's robust /rlg/ threads
 
 ![Untitled 4.png]({{site.baseurl}}/images/1/Untitled 4.png)
+
 _The definition of cozy_
