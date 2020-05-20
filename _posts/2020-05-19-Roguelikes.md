@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 ---
 # The fun of roguelikes
